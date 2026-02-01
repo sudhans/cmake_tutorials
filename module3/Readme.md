@@ -1,6 +1,7 @@
-Build using cmake:
+*Use Libraries"
 
-To compile:
+Compiling steps are same as module 2.
+
 
 mkdir build
 
