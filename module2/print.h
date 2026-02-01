@@ -1,0 +1,1 @@
+void printResult(std::string type, float result);
