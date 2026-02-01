@@ -1,6 +1,9 @@
 To compile:
+
 mkdir build
+
 cd build
+
 From inside the build directory,
 cmake .. 
 
