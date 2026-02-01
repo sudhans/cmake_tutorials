@@ -1,8 +1,8 @@
 #include <iostream>
 
-#include "add.h"
-#include "print.h"
-#include "div.h"
+#include "my_math/add.h"
+#include "my_print/print.h"
+#include "my_math/div.h"
 
 int main() {
   float first_no, second_no, result_add, result_div;

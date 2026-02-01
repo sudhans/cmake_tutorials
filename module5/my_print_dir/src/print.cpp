@@ -1,5 +1,5 @@
 #include<iostream>
-#include"print.h"
+#include"my_print/print.h"
 
 void printResult(std::string type, float result) {
     std::cout<<type + "\t";

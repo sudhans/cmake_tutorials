@@ -2,10 +2,12 @@
 
 Header files should go inside "include" and all the cpp files should go inside "src" directories.
 
+CMakeLists.txt files inside each library directory is updated to use the src and include directories.
+
+Having a folder with the exact library name inside "include" will help in identifying from where the header files are pulled for dependency.
 
 
 Compiling steps are same as module 2.
-
 
 mkdir build
 
